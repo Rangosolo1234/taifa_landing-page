@@ -40,7 +40,7 @@ npm run dev
 3. Update Tailwind classes in `src/assets/main.css` for styling tweaks.
 
 ## 📧 Contact
-For any inquiries, reach out at: [your-email@example.com](mailto:orbit.taifa@gmail.com)
+For any inquiries, reach out at: orbit.taifa@gmail.com
 
 ---
 ✨ **Made with ❤️ by Taifa Orbit** ✨
